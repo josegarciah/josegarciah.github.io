@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Estudios y experiencia
-permalink: /tesis/
+title: Estudios
+permalink: /trayectoria/
 ---
 
 ## Formación academica
