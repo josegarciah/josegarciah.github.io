@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tesis
-permalink: /papers/
+permalink: /tesis/
 ---
 
 ### Tesis de autoría
