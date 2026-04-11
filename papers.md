@@ -4,9 +4,12 @@ title: Publicaciones
 permalink: /papers/
 ---
 
-### Publicaciones recientes
+## Artículos científicos
 
-1. Pérez, J. (2023). *Cómo construir sitios web con Jekyll*. Editorial Ejemplo.
-2. Gómez, L., & Martínez, A. (2022). *Introducción a GitHub Pages*. Revista Digital, 10(2), 45-52.
-3. Torres, M. (2021). *Diseño web moderno con HTML y CSS*. Editorial Código.
-4. J. García Hernández, J. F. Mas, and J. Solórzano, Understanding land use conflicts with landsat time series, ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. X-3/W3-2025, pp. 45–52, 2026. doi: 10.5194/isprs-annals-X-3-W3-2025-45-2026.
+1. Stephens, C. R., González-Salazar, C., & **García-Hernández, J**. (2026). *A hybrid intelligence approach to predicting and explaining land use and land cover change using Bayesian classifiers*. Environmental Modelling & Software, 198, 106904.[https://doi.org/10.1016/j.envsoft.2026.106904](https://doi.org/10.1016/j.envsoft.2026.106904)
+
+2. **García Hernández, J.**, Mas, J. F., and Solórzano, J. (2026): *Understanding Land Use Conflicts With Landsat Time Series*, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., X‐3/W3‐2025, 45–52, [https:// doi.org/10.5194/isprs‐annals‐X‐3‐W3‐2025‐45‐2026] (https:// doi.org/10.5194/isprs‐annals‐X‐3‐W3‐2025‐45‐2026)
+
+## Capítulos de libro 
+
+**García‐Hernández J**; García‐López G and Waluyo‐Moreno I (2022). *Shortage, Meanings, and Adaptations of Water: Reflections on the Perspectives of Elders from San José Lachiguirí, Oaxaca, Mexico*. In: Pullanikkatil, D., Hughes, K. (eds) Socio‐Ecological Systems and Decoloniality. Springer, Cham. [https: //doi.org/10.1007/978‐3‐031‐15097‐5_12] (https: //doi.org/10.1007/978‐3‐031‐15097‐5_12)
