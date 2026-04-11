@@ -12,4 +12,4 @@ permalink: /papers/
 
 ## Capítulos de libro 
 
-**García‐Hernández J**; García‐López G and Waluyo‐Moreno I (2022). *Shortage, Meanings, and Adaptations of Water: Reflections on the Perspectives of Elders from San José Lachiguirí, Oaxaca, Mexico*. In: Pullanikkatil, D., Hughes, K. (eds) Socio‐Ecological Systems and Decoloniality. Springer, Cham. [https: //doi.org/10.1007/978‐3‐031‐15097‐5_12](https://doi.org/10.1007/978‐3‐031‐15097‐5_12)
+**García‐Hernández J**; García‐López G and Waluyo‐Moreno I (2022). *Shortage, Meanings, and Adaptations of Water: Reflections on the Perspectives of Elders from San José Lachiguirí, Oaxaca, Mexico*. In: Pullanikkatil, D., Hughes, K. (eds) Socio‐Ecological Systems and Decoloniality. Springer, Cham. [https://doi.org/10.1007/978-3-031-15097-5_12](https://doi.org/10.1007/978-3-031-15097-5_12)
