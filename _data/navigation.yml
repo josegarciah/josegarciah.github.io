@@ -8,3 +8,5 @@ main:
     url: "/tesis/"
   - title: "Proyectos"
     url: "/proyectos/"
+      - title: "Estudios"
+    url: "/trayectoria/"
