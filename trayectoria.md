@@ -1,7 +1,13 @@
+---
+layout: single
+title: Estudios y experiencia
+permalink: /tesis/
+---
+
 ## Formación academica
-Licenciatura en Ciencias Empresariales
-Maestría en Ciencias 
-Especialista en Geomática
-Doctorado en Geografía 
+1. Licenciatura en Ciencias Empresariales
+2. Maestría en Ciencias 
+3. Especialista en Geomática
+4. Doctorado en Geografía 
 
 ## Experiencia docente 
