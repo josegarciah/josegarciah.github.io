@@ -11,7 +11,9 @@ permalink: /papers/
 2. **García Hernández, J.**, Mas, J. F., and Solórzano, J. (2026). *Understanding Land Use Conflicts With Landsat Time Series*, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., X‐3/W3‐2025, 45–52, [https://doi.org/10.5194/isprs-annals-X-3-W3-2025-45-2026](https://doi.org/10.5194/isprs-annals-X-3-W3-2025-45-2026).
 
 3. Tapia‐Silva, FO., **García‐Hernández, J**. (2024). *Assessing the relationship between river water pollution and the LULC composition of a basin in the Isthmus of Tehuantepec in Oaxaca, Mexico*.  Environmental Monitoring and Assessment 196, 1043. [https://doi.org/10.1007/s10661-024-13147-3](https://doi.org/10.1007/s10661-024-13147-3)
+   
+5. Osorio‐Cortés, J. O., **García‐Hernández, J.**, & Gallardo‐Casas, C. A. (2023). *Ambiente alimentario y diabetes mellitus tipo 2 en Chalcatongo de Hidalgo, Tlaxiaco, Oaxaca, México*. Alad, 13(1) Pp11‐20. [https://doi.org/10.24875/alad.23000006](https://doi.org/10.24875/alad.23000006)
 
 ## Capítulos de libro 
 
-**García‐Hernández J**; García‐López G and Waluyo‐Moreno I (2022). *Shortage, Meanings, and Adaptations of Water: Reflections on the Perspectives of Elders from San José Lachiguirí, Oaxaca, Mexico*. In: Pullanikkatil, D., Hughes, K. (eds) Socio‐Ecological Systems and Decoloniality. Springer, Cham. [https://doi.org/10.1007/978-3-031-15097-5_12](https://doi.org/10.1007/978-3-031-15097-5_12)
+1. **García‐Hernández J**; García‐López G and Waluyo‐Moreno I (2022). *Shortage, Meanings, and Adaptations of Water: Reflections on the Perspectives of Elders from San José Lachiguirí, Oaxaca, Mexico*. In: Pullanikkatil, D., Hughes, K. (eds) Socio‐Ecological Systems and Decoloniality. Springer, Cham. [https://doi.org/10.1007/978-3-031-15097-5_12](https://doi.org/10.1007/978-3-031-15097-5_12)
