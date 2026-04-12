@@ -2,11 +2,12 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Estudios"
+    url: "/trayectoria/"
   - title: "Publicaciones"
     url: "/papers/"
   - title: "Tesis"
     url: "/tesis/"
   - title: "Proyectos"
     url: "/proyectos/"
-  - title: "Estudios"
-    url: "/trayectoria/"
+ 
