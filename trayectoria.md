@@ -11,3 +11,7 @@ permalink: /trayectoria/
 4. Doctorado en Geografía 
 
 ## Experiencia docente 
+1. Universidad de Chalcatongo
+2. Universidad Nacional Abierta y a Distancia de México
+3. Instituto de Estudios Superiores Rosario Castellanos
+   
